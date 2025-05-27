@@ -5,7 +5,12 @@ Throughout the game, you will notice some Easter eggs such as: - rockets that he
                                                                - Mario mushrooms that transform your avatar into Super Mario.
 The game is not exactly perfect—I tried to improve it as much as possible, but it is playable and doesn't produce any errors. 
 The game can also be displayed on multiple screen options.
-I hope you’ll have fun playing it—and who knows, maybe it’ll even spark some inspiration for your own future projects!
+I hope you’ll have fun playing it—and who knows, maybe it’ll even spark some inspiration for your own future projects! ![image](https://github.com/user-attachments/assets/795ecdb0-7f1f-453b-ade7-377940e21cbb)
+![image](https://github.com/user-attachments/assets/0ba4b641-5ea1-43a7-bb7f-0e77af332983)
+![image](https://github.com/user-attachments/assets/4375eeba-f430-4f50-9b69-796b5b7a04de)
+
+
+
 
 
 ⚠️ DISCLAIMER
